@@ -18,9 +18,4 @@
   <img alt="fzrsahi's Stats" src="https://github-readme-stats.vercel.app/api?username=fzrsahi&theme=onedark&show_icons=true&hide_border=true&count_private=true" />
   <img alt="fzrsahi's GitHub Streak" src="https://streak-stats.demolab.com?user=fzrsahi&theme=onedark&hide_border=true" />
   <img alt="fzrsahi's Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=fzrsahi&theme=one-dark&radius=10&hide_border=true&area=true&title_color=e4bf7a&color=8eb573&point=df6d74" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fauzan-radji/fauzan-radji/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fauzan-radji/fauzan-radji/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/fauzan-radji/fauzan-radji/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
