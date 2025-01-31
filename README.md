@@ -8,14 +8,5 @@
   </a>
 </div>
 
-<br>
 
-<h2 align="center">GitHub Stats</h2>
 
-<p align="center">
-  <img alt="fzrsahi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzrsahi&theme=onedark&show_icons=true&hide_border=true&layout=compact" />
-  <br />
-  <img alt="fzrsahi's Stats" src="https://github-readme-stats.vercel.app/api?username=fzrsahi&theme=onedark&show_icons=true&hide_border=true&count_private=true" />
-  <img alt="fzrsahi's GitHub Streak" src="https://streak-stats.demolab.com?user=fzrsahi&theme=onedark&hide_border=true" />
-  <img alt="fzrsahi's Github Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=fzrsahi&theme=one-dark&radius=10&hide_border=true&area=true&title_color=e4bf7a&color=8eb573&point=df6d74" />
-</p>
